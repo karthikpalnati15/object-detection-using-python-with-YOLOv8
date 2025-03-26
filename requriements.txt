@@ -1,0 +1,1 @@
+pip install tkinter ultralytics torch torchvision numpy opencv-python pillow
